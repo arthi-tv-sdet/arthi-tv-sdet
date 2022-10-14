@@ -8,8 +8,9 @@
 
 
 Tools:
+![image](https://user-images.githubusercontent.com/60561674/195902154-cf724ca9-cf09-4d17-beab-c815fd76a512.png)
 
-![image](https://user-images.githubusercontent.com/60561674/195901718-8211522e-0b11-46e6-a034-b2ca4faa53f7.png)
+
 
 <!---arthi-tv-sdet/arthi-tv-sdet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
