@@ -9,6 +9,10 @@
 
 Tools:
 ![image](https://user-images.githubusercontent.com/60561674/195902154-cf724ca9-cf09-4d17-beab-c815fd76a512.png)
+:Selenium:
+:Cucumber:
+:Git:
+:Jenkins:
 
 
 
