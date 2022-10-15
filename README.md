@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arthi Venkateswaran
-- passionate QA tranforming to QE.. QE Test Automation Engineer working in India..
+- passionate QA tranforming to QE..  Test Automation Engineer working in India..
 - 👀 I’m interested in learning new skills to add to my tech stack
 - 🌱 I’m currently learning data structures and algorithm, Jenkins pipeline, Docker and kubernetes
 - 💞️ I’m an open source enthusiast looking to deepen my skills in Test automation 
