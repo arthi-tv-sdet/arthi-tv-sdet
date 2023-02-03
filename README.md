@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthi Venkateswaran</h1>
 <h3 align="center">A passionate Test Automation Engineer working in India..</h3>
-- 👀 I’m interested in learning new skills to add to my tech stack
+ 👀 I’m interested in learning new skills to add to my tech stack
 
 - 🌱 I’m currently learning data structures and algorithm, Jenkins pipeline, Docker and kubernetes
 
