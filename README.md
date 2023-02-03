@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning new skills to add to my tech stack
 - 🌱 I’m currently learning data structures and algorithm, Jenkins pipeline, Docker and kubernetes
 - 💞️ I’m an open source enthusiast looking to deepen my skills in Test automation 
-- 👨‍💻 All of my projects are available at [https://github.com/arthi-tv-sdet](https://github.com/arthi-tv-sdet)
+- 👨‍💻 All of my projects are available at [https://github.com/arthi-tv-sdet]
 
 - 📫 How to reach me **arthialv@gmail.com**
 
@@ -29,23 +29,5 @@
 
 
 
-<!---arthi-tv-sdet/arthi-tv-sdet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthi-tv-sdet&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthi-tv-sdet&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
-
-</br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthi-tv-sdet&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/arthi-tv-sdet/github-readme-stats)
 
 
