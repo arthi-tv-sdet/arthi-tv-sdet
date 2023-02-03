@@ -1,24 +1,31 @@
-- 👋 Hi, I’m Arthi Venkateswaran
-- passionate QA tranforming to QE..  Test Automation Engineer working in India..
+<h1 align="center">Hi 👋, I'm Arthi Venkateswaran</h1>
+<h3 align="center">A passionate Test Automation Engineer working in India..</h3>
 - 👀 I’m interested in learning new skills to add to my tech stack
 - 🌱 I’m currently learning data structures and algorithm, Jenkins pipeline, Docker and kubernetes
 - 💞️ I’m an open source enthusiast looking to deepen my skills in Test automation 
-- 📫 How to reach me- :link: linkedin.com/in/arthi-tv-sdet/
-- :envelope: arthialv@gmail.com
+- 👨‍💻 All of my projects are available at [https://github.com/arthi-tv-sdet](https://github.com/arthi-tv-sdet)
+
+- 📫 How to reach me **arthialv@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/arthi-tv-sdet/](https://www.linkedin.com/in/arthi-tv-sdet/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arthi-tv-sdet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthi-tv-sdet/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arthi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arthi22" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arthialv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arthialv" height="30" width="40" /></a>
+</p>
 
 
 
-![image](https://user-images.githubusercontent.com/60561674/195902154-cf724ca9-cf09-4d17-beab-c815fd76a512.png)
-![image](https://user-images.githubusercontent.com/60561674/195902442-5a3d0807-29ff-4e56-90dd-3724350dcb70.png)
-![image](https://user-images.githubusercontent.com/60561674/195902542-17378799-f1bc-4eff-ab93-e901fd0c2e6d.png)
-![image](https://user-images.githubusercontent.com/60561674/195902606-c148fcf2-2dba-43d4-bffb-5c7ad0f9179e.png)
-![image](https://user-images.githubusercontent.com/60561674/195902691-8f8dda1c-3d25-4d4f-8dff-7493405911f0.png)
-![image](https://user-images.githubusercontent.com/60561674/195902772-bf2f4735-1a9a-4a53-b1b1-85a2fe93af80.png)
-![image](https://user-images.githubusercontent.com/60561674/195902805-4e34dac2-6230-4328-bd0f-3ec68f0c2c91.png)
-![image](https://user-images.githubusercontent.com/60561674/195902862-e53d5326-0fa4-4592-ac1e-52171e97849d.png)
-![image](https://user-images.githubusercontent.com/60561674/195903553-37e21e9a-72a1-4d8d-82bb-8776620e19c6.png)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthi-tv-sdet&show_icons=true&locale=en&layout=compact" alt="arthi-tv-sdet" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthi-tv-sdet&show_icons=true&locale=en" alt="arthi-tv-sdet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthi-tv-sdet&" alt="arthi-tv-sdet" /></p>
 
 
 
